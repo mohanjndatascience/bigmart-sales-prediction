@@ -1,0 +1,20 @@
+# Data manipulation
+numpy==2.3.2
+pandas==2.3.1
+
+# Visualization
+matplotlib==3.10.5
+seaborn==0.13.2
+
+# Statistics / combinatorics
+scipy==1.16.1
+
+# Machine learning
+scikit-learn==1.7.1
+xgboost==3.0.4
+
+# Model persistence
+joblib==1.5.1
+
+# Optional (if using notebooks)
+ipython==9.4.0
